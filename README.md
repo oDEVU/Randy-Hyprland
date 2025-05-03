@@ -1,5 +1,7 @@
 # Randy-Hyprland
-This are my scripts and configs for randy (rust alternative for conky), to work as widget on hyprland.
+This are my scripts and configs for randy (rust alternative for conky), to work as widget on hyprland. Randy will automatically hide itself when any other window is present on screen.
+
+![Randy screenshot](250503_14h26m56s_screenshot.png)
 
 ## Prerequisites:
 - JetBrainsMono Nerd Font *(Is used in .randy.yml config, can be changed)*
