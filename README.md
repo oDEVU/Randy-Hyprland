@@ -32,3 +32,5 @@ This are my scripts and configs for randy (rust alternative for conky), to work 
 	`source=configs/randy-wrules.conf`
 
 	`exec-once = scripts/randy-widget.sh &`
+
+- Reboot, Randy should automatically open after reboot and hide it self when oppened any window.
