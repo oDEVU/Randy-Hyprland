@@ -10,7 +10,7 @@ This are my scripts and configs for randy (rust alternative for conky), to work 
 ## installation:
 - clone the repository
   
-	`git clone gh repo clone oDEVU/Randy-Hyprland`
+	`git clone https://github.com/oDEVU/Randy-Hyprland.git`
 
 	`cd Randy-Hyprland`
 - edit script and config to your liking
